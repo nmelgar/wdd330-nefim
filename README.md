@@ -1,5 +1,5 @@
 # sleepoutside
-# URL - https://main--wdd330team18.netlify.app/
+# URL - https://wdd330-nmelgar.netlify.app/
 
 ## Description
 
